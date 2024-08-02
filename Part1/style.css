@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, sans-serif;
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  div {
+    padding-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 150px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #ffc125;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #5e2612;
+  }
+  
+  button:hover {
+    background-color: #e6b222;
+  }
+  
+  p {
+    background: #ffc125;
+    color: #5e2612;
+    padding: 10px;
+    visibility: hidden;
+    border-radius: 5px;
+  }
