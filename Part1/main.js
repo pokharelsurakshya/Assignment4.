@@ -2,7 +2,7 @@
 Name: Surakshya Pokharel
 Date: 8/2/2024
 Description: JavaScript file for the silly story generator.
-*/
+*/ 
 
 // 1. COMPLETE VARIABLE AND FUNCTION DEFINITIONS
 
